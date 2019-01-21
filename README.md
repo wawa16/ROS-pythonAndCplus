@@ -1,2 +1,2 @@
 # ROS-pythonAndCplus
-scripts for ROS in python and c++, ideal for starters
+learner packages in ROS using python and c++
